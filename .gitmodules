@@ -1,3 +1,9 @@
 [submodule "codecrafters-shell-python"]
 	path = codecrafters-shell-python
 	url = https://git.codecrafters.io/52ee84de1a8a547e
+[submodule "d94ce250c9952be9"]
+	path = d94ce250c9952be9
+	url = https://git.codecrafters.io/d94ce250c9952be9
+[submodule "1fcefe1eb92eb374"]
+	path = 1fcefe1eb92eb374
+	url = https://git.codecrafters.io/1fcefe1eb92eb374
